@@ -29,6 +29,7 @@
     * mv terraform-aws ~/.ssh
     * mv terraform-aws.pub ~/.ssh
   * import the key into the aws using the web console ui: ec2 -> Key Pair -> Import key
+* Nice tutorial: https://www.alura.com.br/artigos/criando-o-primeiro-ambiente-com-terraform
   
 ## Provisioning the first infrastructure
 * exeute the bellow commands
